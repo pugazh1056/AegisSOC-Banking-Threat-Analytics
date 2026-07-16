@@ -1,0 +1,6 @@
+{
+  "name": "AegisSOC: Banking Threat Analytics",
+  "description": "An advanced, AI-powered Banking Security Operations Center (SOC) containing real-time behavioral threat analytics, risk monitoring, incident investigation, and active AI Copilot chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
